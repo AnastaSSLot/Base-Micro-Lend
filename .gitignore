@@ -1,0 +1,8 @@
+# Build artifacts and keys
+node_modules/
+artifacts/
+cache/
+coverage/
+typechain-types/
+.env
+.env.local
